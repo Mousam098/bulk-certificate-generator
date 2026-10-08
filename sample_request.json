@@ -1,0 +1,12 @@
+{
+  "event_name": "Python Backend Bootcamp 2026",
+  "issuer": "Example Academy",
+  "issue_date": "2026-10-08",
+  "recipients": [
+    {"name": "Asha Rao", "email": "asha@example.com"},
+    {"name": "Mousom Koley", "email": "mousom@example.com"},
+    {"name": "Rahul Sen"},
+    {"name": "", "email": "blank-name@example.com"},
+    {"name": "Bad Email", "email": "not-an-email"}
+  ]
+}
